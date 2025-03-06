@@ -2,5 +2,6 @@
 
 #### Todos
 - Create a frontend custom theme
-- Add Tailwind for the frontend 
-- Extend TheAdmin theme 
+- Extend TheAdmin theme
+    - login form
+- Tailwind for the frontend
