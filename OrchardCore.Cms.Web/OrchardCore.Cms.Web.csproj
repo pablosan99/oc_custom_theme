@@ -24,6 +24,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\OrchardCore.AdminTheme\OrchardCore.AdminTheme.csproj" />
       <ProjectReference Include="..\OrchardCore.Theme1\OrchardCore.Theme1.csproj" />
       <ProjectReference Include="..\OrchardCore.Theme\OrchardCore.Theme.csproj" />
     </ItemGroup>
