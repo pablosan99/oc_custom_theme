@@ -11,6 +11,8 @@ builder.Host.UseSerilog((hostingContext, configBuilder) =>
 
 builder.Services
     .AddOrchardCms()
+    .AddTenantFeatures("OrchardCore.AdminTheme")
+    .AddSetupFeatures("OrchardCore.AutoSetup");
     // // Orchard Specific Pipeline
     // .ConfigureServices( services => {
     // })

@@ -5,5 +5,6 @@ using OrchardCore.DisplayManagement.Manifest;
     Author = "Pawel Nowak",
     Website = "https://dont-know-yet.net",
     Version = "0.0.1",
-    Description = "New OrchardCore Theme"
+    Description = "New OrchardCore Theme",
+    BaseTheme = "Agency"
 )]
